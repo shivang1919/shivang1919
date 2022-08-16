@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivang1919
 - 👀 I’m interested in exploring web development and machine learning.
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning nodejs and express js
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me -> my email id is shivangnov@gmail.com
 - my linkedin profile is https://www.linkedin.com/in/shivang-sharma-443518224 
 - 
